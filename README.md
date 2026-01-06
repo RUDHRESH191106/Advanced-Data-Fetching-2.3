@@ -7,7 +7,7 @@ This project demonstrates three rendering strategies supported by Next.js.
 - Rendered at build time
 - Fastest performance with no server cost
 - Suitable for pages that rarely change
-
+ //d
 ### Dynamic Rendering (SSR)
 - Page: /dashboard
 - Rendered on every request
